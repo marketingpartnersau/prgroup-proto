@@ -1,0 +1,20 @@
+{
+  "name": "PRGroup",
+  "version": "0.0.0",
+  "authors": [
+    "Harley Alexander <iharley@baffleinc.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.3.0",
+    "fontawesome": "~4.1.0",
+    "angular": "~1.2.19"
+  }
+}
